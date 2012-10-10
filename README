@@ -1,1 +1,7 @@
-This file was created by PyCharm 2.5.2 for binding GitHub repository
+The project is used for those C++/VC++ project without pre-compiled header.
+The main script will extract the common used header to a pre-compiled header.
+
+The usage is:
+-----------------------
+ConvertFileForPreCompile.py [vcproject filename or source file list]
+-----------------------
